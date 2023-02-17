@@ -1,12 +1,14 @@
 #include <stdlib.h>
 #include <time.h>
-#include <stdio.h>
+#include <stdio.h
+
 /*
 * more headers goes there
-*main - Entry point
+*main - Entry Point
 *Return: Always 0 (success)
 */
-int main(void);
+
+int main(void)
 {
 	int n;
 
